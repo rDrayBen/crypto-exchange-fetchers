@@ -1,2 +1,2 @@
-# korbit-fetcher
-Fetcher for korbit exchange https://www.korbit.co.kr
+# poloniex-fetcher
+Fetcher for poloniex exchange https://poloniex.com
