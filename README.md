@@ -1,2 +1,2 @@
-# bitvavo-fetcher
-Fetcher for bitvavo exchange https://bitvavo.com/en
+# korbit-fetcher
+Fetcher for korbit exchange https://www.korbit.co.kr
