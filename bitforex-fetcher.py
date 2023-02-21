@@ -3,7 +3,6 @@ import requests
 import websockets
 import time
 import asyncio
-from datetime import datetime
 
 # get all available symbol pairs from exchange
 currency_url = 'https://api.bitforex.com/api/v1/market/symbols'
